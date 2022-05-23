@@ -1,0 +1,56 @@
+body
+{
+	background-image:url("pack.png");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #05092D;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        color: #9db0ff;
+	}
+
+#title {
+
+	font-weight: 900;
+	color:#626ae0;
+
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    color: #9db0ff;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+    color:aliceblue
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #626ae0;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.buttonn {
+
+background:#05092D;
+color: #9db0ff;
+}
+
+.send {
+	background-color:#05092D;
+	color:#9db0ff
+}
